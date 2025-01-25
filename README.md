@@ -22,7 +22,7 @@ Seeking an exciting opportunity as a Full Stack Developer Leveraging my proficie
 [![](https://visitcount.itsvg.in/api?id=BelalMoustafa&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/BelalMoustafa35) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BelalMoustafa35) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
